@@ -1,4 +1,9 @@
 # BDD using NodeJs and cucumberJs
+
+**Stack:** Node.js, Cucumber.js
+
+**Skills:** BDD, API testing
+
 https://dev.to/ynmanware/bdd-for-rest-api-using-cucumber-js-2pol
 
 #### install 
